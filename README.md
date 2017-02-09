@@ -1,0 +1,1 @@
+![alt text](./random_generator/randBMP.bmp)
